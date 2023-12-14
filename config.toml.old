@@ -18,7 +18,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 enabled = false
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-arch = "both"
+apkmirror-arch = "both"
 
 [Music-Extended]
 app-name = "Music"
@@ -27,8 +27,8 @@ integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "apk"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-arch = "arm64-v8a"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
+apkmirror-arch = "arm64-v8a"
 
 [YouTube-Extended]
 app-name = "YouTube"
@@ -38,7 +38,7 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "apk"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
-arch = "arm64-v8a"
+apkmirror-arch = "arm64-v8a"
 
 [Twitter]
 enabled = false
@@ -51,7 +51,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.ap
 
 [TikTok]
 enabled = false
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
+apkmirror-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 
 [Reddit]
 enabled = false
@@ -60,7 +60,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage
 [Messenger]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
-arch = "arm64-v8a"
+apkmirror-arch = "arm64-v8a"
 
 [Spotify]
 enabled = false
