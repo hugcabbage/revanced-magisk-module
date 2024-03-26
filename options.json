@@ -29,5 +29,18 @@
         "value": "YouTube"
       }
     ]
+  },
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "PackageNameYouTube",
+        "value": "app.revanced.android.youtube"
+      },
+      {
+        "key": "PackageNameYouTubeMusic",
+        "value": "app.revanced.android.apps.youtube.music"
+      }
+    ]
   }
 ]
