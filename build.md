@@ -1,5 +1,5 @@
+Music: 6.46.52  
 YouTube: 19.09.37  
-Music: 6.45.54  
 Music-Extended: 6.33.52  
 YouTube-Extended: 19.02.39  
 
@@ -14,7 +14,7 @@ Integrations: inotia00/revanced-integrations-0.140.1.apk
 Patches: inotia00/revanced-patches-2.220.1.jar  
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v2.220.1)
 
-CLI: j-hc/revanced-cli-4.5.0-all.jar  
+CLI: j-hc/revanced-cli-4.6.0-all.jar  
 Integrations: ReVanced/revanced-integrations-1.7.0.apk  
-Patches: ReVanced/revanced-patches-4.5.0.jar  
-[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.5.0)  
+Patches: ReVanced/revanced-patches-4.6.0.jar  
+[Changelog](https://github.com/ReVanced/revanced-patches/releases/tag/v4.6.0)  
