@@ -1,6 +1,6 @@
 YouTube: 19.09.37  
+Music: 6.47.53  
 Music-Extended: 6.33.52  
-Music: 6.47.50  
 YouTube-Extended: 19.02.39  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
