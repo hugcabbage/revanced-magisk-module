@@ -1,5 +1,5 @@
-YouTube: 19.09.37  
-Music: 6.47.53  
+Music: 6.49.53  
+YouTube: 19.11.43  
 Music-Extended: 6.33.52  
 YouTube-Extended: 19.02.39  
 
