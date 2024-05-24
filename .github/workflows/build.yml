@@ -25,6 +25,11 @@ jobs:
           fetch-depth: 0
           submodules: true
 
+      - name: Modify files
+        run: |
+          mv two_config.toml config.toml
+          mv two_options.json options.json
+
       - name: Update config
         if: ${{ inputs.from_ci }}
         run: |
